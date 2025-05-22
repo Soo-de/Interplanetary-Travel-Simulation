@@ -36,7 +36,15 @@ Notably, the project was implemented both in Java using classic OOP principles a
   The C implementation uses modular design patterns to mimic object-oriented programming concepts such as encapsulation and modularity, providing a clear example of applying OOP principles in a procedural language.
 
 ---
+## Simulation Output Examples
 
+### Output from the Last Two Iterations
+The image below shows the simulation output for the last two iterations, demonstrating the state changes of spaceships and passengers over time.
+
+![Output from the Last Two Iterations](images/Screenshot 2025-05-22 at 23.56.15.png)
+
+
+---
 ### 🎯 Key Focus Areas
 
 - Time-based event management (scheduled departures and travel progress).  
