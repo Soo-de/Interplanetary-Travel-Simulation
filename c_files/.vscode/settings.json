@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "itimelistener.h": "c",
+        "time.h": "c",
+        "arraylist.h": "c",
+        "spaceship.h": "c",
+        "mylocaltime.h": "c",
+        "string.h": "c",
+        "stringutils.h": "c",
+        "terrestrialplanet.h": "c",
+        "startsim_facade.h": "c",
+        "exception.h": "c",
+        "planetlists.h": "c"
+    }
+}

@@ -1,0 +1,5 @@
+A#Earth#Saturn#10.04.2024#48
+B#Uranus#Venus#08.02.2024#830
+C#Mars#eartH#09.07.2023#147
+D#Uranus#Mars#09.07.2022#670
+E#Venus#Earth#05.04.2021#100

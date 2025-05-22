@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/Users/Sude/Desktop/B231210005/.metadata/.plugins/org.eclipse.jdt.core
+4225498938.index
+1865797976.index
+1769723709.index

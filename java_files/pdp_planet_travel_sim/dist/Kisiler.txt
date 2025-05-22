@@ -1,0 +1,11 @@
+Ahmet#25#8500#E
+Mehmet#35#2000#A
+Ayşe#28#92000#B
+Fatma#40#65000#B
+Zeynep#22#100000#C
+Ali#29#8900#B
+Mustafa#45#5800#E
+Sibel#33#74000#K
+Emre#27#9100#D
+Aslı#31#8300#D
+Orçun#18#4000#A
