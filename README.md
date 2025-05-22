@@ -41,7 +41,7 @@ Notably, the project was implemented both in Java using classic OOP principles a
 ### Output from the Last Two Iterations
 The image below shows the simulation output for the last two iterations, demonstrating the state changes of spaceships and passengers over time.
 
-![Output from the Last Two Iterations](images/Screenshot 2025-05-22 at 23.56.15.png)
+![Output from the Last Two Iterations](images/output.png)
 
 
 ---
